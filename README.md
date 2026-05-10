@@ -36,11 +36,11 @@ On the software side, the MCU initializes the sensors, waits for the user to pre
 
 Flow chart:
 
-![]()![1778121515152](image/readme/1778121515152.png)
+![]()[1778121515152](image/readme/1778121515152.png)
 
 System-Level Block Diagram:
 
-![]()![1778121524719](image/readme/1778121524719.png)
+![]()[1778121524719](image/readme/1778121524719.png)
 
 ### Challenges
 
