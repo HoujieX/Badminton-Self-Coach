@@ -1,9 +1,9 @@
 # Badminton-Self-Coach
 
 
-**Team Number: 15
+## Team Number: 15
 
-**Team Name: Advance Coach
+## Team Name: Advance Coach
 
 | Team Member Name | Email Address         | GitHub Username  |
 | ---------------- | --------------------- | ---------------- |
