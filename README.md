@@ -36,11 +36,11 @@ On the software side, the MCU initializes the sensors, waits for the user to pre
 
 Flow chart:
 
-![]()![1778121515152](image/README/1778121515152.png)
+![]()![1778121515152](image/readme/1778121515152.png)
 
 System-Level Block Diagram:
 
-![]()![1778121524719](image/README/1778121524719.png)
+![]()![1778121524719](image/readme/1778121524719.png)
 
 ### Challenges
 
@@ -105,41 +105,41 @@ Summary of Gaps: The two main gaps were that the IMU sampling rate reached 200 H
 
 ### Photo of the whole project:
 
-![]()![1778121560675](image/README/1778121560675.png)
+![]()![1778121560675](image/readme/1778121560675.png)
 
 ### PCB Front:
 
-![]()![1778121571391](image/README/1778121571391.png)
+![]()![1778121571391](image/readme/1778121571391.png)
 
 ### PCB Back:
 
-![]()![1778121579215](image/README/1778121579215.png)
+![]()![1778121579215](image/readme/1778121579215.png)
 
 ### Thermal camera images:
 
-![]()![1778121591058](image/README/1778121591058.png)
+![]()![1778121591058](image/readme/1778121591058.png)
 
 ### Altium 2D:
 
-![]()![1778121614775](image/README/1778121614775.png)
+![]()![1778121614775](image/readme/1778121614775.png)
 
 ### Altium 3D:
 
-![]()![1778121629922](image/README/1778121629922.png)
+![]()![1778121629922](image/readme/1778121629922.png)
 
 ### Node-Red Backend:
 
-![img]()![1778121658058](image/README/1778121658058.png)
+![img]()![1778121658058](image/readme/1778121658058.png)
 
 ### Node-Red front end:
 
-![]()![1778121673994](image/README/1778121673994.png)
+![]()![1778121673994](image/readme/1778121673994.png)
 
 ![]()
 
 ### Block diagram:
 
-![]()![1778121684839](image/README/1778121684839.png)
+![]()![1778121684839](image/readme/1778121684839.png)
 
 ## * Codebase
 
