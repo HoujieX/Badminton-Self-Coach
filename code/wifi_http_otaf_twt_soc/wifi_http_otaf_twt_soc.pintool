@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ASCII"?>
+<device:XMLDevice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:device="http://www.silabs.com/ss/hwconfig/document/device.ecore" name="pin_tool.siwg917y121mgaba" partId="mcu.arm.wfm.siwg917y121mgaba" contextId="com.silabs.sdk.stack.sisdk:2025.6.3._2028442521-2373502478">
+  <mode name="DefaultMode">
+    <property object="DefaultMode" propertyId="mode.diagramLocation" value="100, 100"/>
+    <property object="GPIO_11" propertyId="pin.name" value=""/>
+    <property object="GPIO_12" propertyId="pin.name" value=""/>
+    <property object="GPIO_15" propertyId="pin.name" value=""/>
+    <property object="GPIO_15" propertyId="pin.reserve" value="Reserved"/>
+    <property object="GPIO_25" propertyId="pin.name" value=""/>
+    <property object="GPIO_25" propertyId="pin.reserve" value="Reserved"/>
+    <property object="GPIO_26" propertyId="pin.name" value=""/>
+    <property object="GPIO_26" propertyId="pin.reserve" value="Reserved"/>
+    <property object="GPIO_28" propertyId="pin.name" value=""/>
+    <property object="GPIO_28" propertyId="pin.reserve" value="Reserved"/>
+    <property object="GPIO_49" propertyId="pin.name" value=""/>
+    <property object="GPIO_53" propertyId="pin.name" value=""/>
+    <property object="GPIO_54" propertyId="ABModule.selectedRequirement" value="gpio%T%SL_SI91X_BUTTON_1%T%sl_si91x_button_init_btn1_config.h"/>
+    <property object="GPIO_54" propertyId="pin.reserve" value="Reserved"/>
+    <property object="GPIO_56" propertyId="pin.name" value=""/>
+    <property object="GPIO_56" propertyId="pin.reserve" value="Reserved"/>
+    <property object="GPIO_57" propertyId="pin.name" value=""/>
+    <property object="GPIO_57" propertyId="pin.reserve" value="Reserved"/>
+    <property object="GPIO_6" propertyId="pin.name" value=""/>
+    <property object="GPIO_8" propertyId="pin.name" value=""/>
+    <property object="I2C0" propertyId="ABModule.selectedRequirement" value="i2c0%T%SL_I2C0%T%sl_si91x_i2c_init_i2c0_config.h"/>
+    <property object="I2C0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="I2C1" propertyId="ABModule.selectedRequirement" value="i2c1%T%SL_I2C1%T%sl_si91x_i2c_init_i2c1_config.h"/>
+    <property object="I2C1" propertyId="ABPeripheral.included" value="true"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.scl" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.sda" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c1.enable.scl" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c1.enable.sda" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c1.location.scl" value="1"/>
+    <property object="PORTIO" propertyId="portio.i2c1.location.sda" value="7"/>
+    <property object="PORTIO" propertyId="portio.uart1.enable.rts" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.uart1.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.uart1.enable.tx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.uart1.location.cts" value="11"/>
+    <property object="PORTIO" propertyId="portio.uart1.location.rts" value="17"/>
+    <property object="PORTIO" propertyId="portio.uart1.location.rx" value="7"/>
+    <property object="PORTIO" propertyId="portio.uart1.location.tx" value="2"/>
+    <property object="PORTIO" propertyId="portio.ulp_spi.location.sck_" value="7"/>
+    <property object="UART1" propertyId="ABModule.selectedRequirement" value="uart1%T%SL_UART1%T%sl_si91x_uart_common_config.h"/>
+    <property object="UART1" propertyId="ABPeripheral.included" value="true"/>
+    <property object="ULP_GPIO_11" propertyId="pin.name" value=""/>
+    <property object="ULP_GPIO_2" propertyId="ABModule.selectedRequirement" value="gpio%T%SL_SI91X_LED_0%T%sl_si91x_led_init_led0_config.h"/>
+    <property object="ULP_GPIO_2" propertyId="pin.name" value=""/>
+    <property object="ULP_GPIO_2" propertyId="pin.reserve" value="Reserved"/>
+    <property object="ULP_SSI" propertyId="ABModule.selectedRequirement" value="ulp_ssi%T%SL_MEMLCD%T%sl_si91x_memlcd_config.h"/>
+    <property object="ULP_SSI" propertyId="ABPeripheral.included" value="true"/>
+    <property object="UULP_VBAT_GPIO_2" propertyId="ABModule.selectedRequirement" value="gpio%T%SL_SI91X_BUTTON_0%T%sl_si91x_button_init_btn0_config.h"/>
+    <property object="UULP_VBAT_GPIO_2" propertyId="pin.name" value=""/>
+    <property object="UULP_VBAT_GPIO_2" propertyId="pin.reserve" value="Reserved"/>
+  </mode>
+  <modeTransition>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.source" value="RESET"/>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.target" value="DefaultMode"/>
+  </modeTransition>
+</device:XMLDevice>
